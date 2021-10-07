@@ -8,3 +8,16 @@ CPU scheduling/SJF non preeemtive
 CPU scheduling/SJF non preeemtive.o
 CPU scheduling/SJF preeemtive
 CPU scheduling/SJF preeemtive.o
+CPU scheduling/round robin scheduling
+Disk scheduling/first come first serve scheduling (FCFS).o
+Disk scheduling/C_LOOK scheduling
+Disk scheduling/first come first serve scheduling (FCFS)
+Disk scheduling/C_SCAN scheduling.o
+Disk scheduling/C_SCAN scheduling
+Disk scheduling/C_LOOK scheduling.o
+Disk scheduling/LOOK scheduling
+Disk scheduling/LOOK scheduling.o
+Disk scheduling/SCAN scheduling
+Disk scheduling/SCAN scheduling.o
+Disk scheduling/shortest seek time first (SSTF)
+Disk scheduling/shortest seek time first (SSTF).o
