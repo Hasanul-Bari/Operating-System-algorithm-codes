@@ -21,3 +21,7 @@ Disk scheduling/SCAN scheduling
 Disk scheduling/SCAN scheduling.o
 Disk scheduling/shortest seek time first (SSTF)
 Disk scheduling/shortest seek time first (SSTF).o
+CPU scheduling/round robin scheduling 2
+CPU scheduling/round robin scheduling 2.o
+CPU scheduling/round robin scheduling with priority queue
+CPU scheduling/round robin scheduling with priority queue.o
