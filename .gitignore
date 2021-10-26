@@ -1,4 +1,5 @@
 
+*.o
 CPU scheduling/priority scheduling non preemtive
 CPU scheduling/priority scheduling non preemtive.o
 CPU scheduling/priority scheduling preemtive
